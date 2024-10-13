@@ -17,7 +17,7 @@ Os exemplos de código pyspark/python para instanciar o Spark, bem como criar e 
 
 **Nota:** Antes de executar o arquivo citado acima, não esqueça de selecionar o seu ambiente virtual (.venv) como Kernel do seu jupyter notebook.
 
-
+![image](https://github.com/user-attachments/assets/6394e5b6-c51e-4245-bad2-450d864e422a)
 
 Links e referências sobre a compatibilidade da versão do Apache Spark (pyspark) e Apache Iceberg:
 
