@@ -1,6 +1,6 @@
 ## Projeto Apache Spark com Apache Iceberg
 
-Projeto desenvolvido para desmontração do Apache Spark Local (pyspark) gravando arquivos no formato Apache Iceberg também de forma local.
+Projeto desenvolvido para demonstração do Apache Spark Local (pyspark) gravando arquivos no formato Apache Iceberg também de forma local.
 
 Projeto python inicializado com o [UV](https://github.com/astral-sh/uv).
 
